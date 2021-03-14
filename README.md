@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @martinflemingdev
-- 👀 I’m interested in learning all things programming!
+- 👀 I’m interested in growing my software development skills to the highest level.
 - 🌱 I’m currently learning java and full-stack web development at Tech Elevator Coding Bootcamp, Philadelphia campus.
-- 💞️ I’m looking to collaborate on coding projects of all kinds!
 - 📫 How to reach me: martinflemingdev@gmail.com
 
 <!---
